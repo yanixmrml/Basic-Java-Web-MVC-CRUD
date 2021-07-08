@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="jdbc/listData"
+	         auth="Container"
+	         type="javax.sql.DataSource"
+	         driverClassName="com.mysql.cj.jdbc.Driver"
+	         url="jdbc:mysql://127.0.0.1:3306/yanix_demo?useSSL=FALSE"
+	         username="ADMIN"
+	         password="amazinggraceMARK1990"  
+	         maxActive="25"
+	         maxIdle="5"
+	         maxWait="10000"
+	         autoReconnect="true"
+	         />
+</Context>

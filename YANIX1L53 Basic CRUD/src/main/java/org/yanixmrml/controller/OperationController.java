@@ -17,6 +17,7 @@ import org.yanixmrml.model.UserModel;
 
 /**
  * Servlet implementation class OperationController
+ * @Author: Mark Ryan Longhas
  */
 @WebServlet("/operation")
 public class OperationController extends HttpServlet {
